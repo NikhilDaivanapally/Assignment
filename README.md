@@ -1,5 +1,5 @@
 
-![Screenshot](src/assets//Screenshot.png)
+![Screenshot](src/assets/ScreenShot.png)
 
 
 # Install dependencies
